@@ -1,9 +1,9 @@
-import classes from './CardContainer.module.css'
+import styles from './CardContainer.module.css'
 
 
 function CardContainer (props) {
     return (
-        <div className = {classes.container}>
+        <div className = {styles.container}>
             {props.children}
         </div>
     )

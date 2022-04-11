@@ -1,0 +1,22 @@
+.profileTitle {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border: 10px solid rgba(104, 196, 104, 0.758);
+    border-bottom: 0;
+    
+}
+
+.profilePicture {
+    width: 400px;
+    border: 15px solid rgba(104, 196, 104, 0.758);
+    
+}
+
+.profileContainer {
+    display: grid;
+    justify-content: center; 
+    margin-bottom: 10px;
+
+}

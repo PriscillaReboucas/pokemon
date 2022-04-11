@@ -1,0 +1,34 @@
+.inputContainer {
+    display: flex;
+    margin: 1rem 0 0 1rem;
+
+    position: relative;
+    background: linear-gradient(21deg, #10abff, #1beabd);   
+    padding: 3px;
+    max-width: 250px;
+    height: 40px;
+}
+
+.hiddenLabel {
+    font-size: 0;
+}
+
+.inputContainer img {
+    width: 50px;
+    background-color: white;
+    border-radius:0.5rem 0 0 0.5rem;
+}
+
+.inputContent {
+    border: none;
+    font-size: 15px;
+    border-radius:0 0.5rem 0.5rem 0;
+}
+
+.inputContent:focus-visible {
+    background-color: rgba(31, 228, 202, 0.897);
+}
+
+::placeholder {
+    color: gray;
+}

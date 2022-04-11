@@ -1,5 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url(https://www.palettable.io/499B09-BAE5FF-97DCE3-58CCF3-E7FFED);
 
 * {
   box-sizing: border-box;
@@ -15,7 +16,4 @@ body {
  
 }
 
-input {
-  border: 0.25rem solid rgba(116, 148, 234, 1);
 
-}

@@ -1,0 +1,18 @@
+.abilityContainer {
+    margin: 10px;   
+    
+}
+
+.abilityName {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.abilityDescription {
+    color: black;
+    max-width: 380px;
+    text-align: justify;
+}

@@ -1,0 +1,17 @@
+.relationDamage {
+    background-color: #E7FFED;
+    font-weight: bold;
+    text-align: center;
+}
+
+.typePokemon {
+    text-align: center;
+}
+
+.relationBorder {
+    border: 5px solid #BAE5FF;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+

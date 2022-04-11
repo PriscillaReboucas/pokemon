@@ -1,0 +1,9 @@
+.typePokemon {
+    width: 300px;
+}
+
+.name {
+    font-weight: bold;
+    background-color:#58CCF3;
+    text-align: center;
+}

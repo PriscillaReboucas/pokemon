@@ -1,0 +1,38 @@
+.menu {
+    margin-top: -1rem;
+    padding: 2rem;
+    background-color: rgba(15, 62, 200, 0.824);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  
+.menu span {
+    display: inline-block;
+    font-weight: bold;
+    background: linear-gradient(to right, #fffffff7 50%,yellow 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  
+}
+
+.menu img {
+    width: 60px;
+    height: 60px;
+}
+
+.title {
+    display: inline-flex;
+    align-items: center;
+}
+
+.mainNavigation {
+    text-decoration: none;
+    color: white;
+    margin-right: 100px;
+}
+
+.mainNavigation:hover {
+    opacity: 0.8;
+}
